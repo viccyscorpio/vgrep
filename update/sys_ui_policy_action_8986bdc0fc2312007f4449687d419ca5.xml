@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>game</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-17 21:58:13</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>8986bdc0fc2312007f4449687d419ca5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>game</sys_name>
+        <sys_package display_value="GameTimeNow" source="x_gametimenow">e608e540fc2312007f4449687d419c55</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GameTimeNow">e608e540fc2312007f4449687d419c55</sys_scope>
+        <sys_update_name>sys_ui_policy_action_8986bdc0fc2312007f4449687d419ca5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-17 21:58:13</sys_updated_on>
+        <table>x_gametimenow_game_players</table>
+        <ui_policy display_value="Require Game and Player for this table">c836bdc0fc2312007f4449687d419c23</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="game_date" label="Game Date" language="en" table="x_gametimenow_game_date">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>game_date</element>
+            <help/>
+            <hint/>
+            <label>Game Date</label>
+            <language>en</language>
+            <name>x_gametimenow_game_date</name>
+            <plural>Game Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-17 21:05:35</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>0a8a2180fc2312007f4449687d419c67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Game Date</sys_name>
+            <sys_package display_value="GameTimeNow" source="x_gametimenow">e608e540fc2312007f4449687d419c55</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="GameTimeNow">e608e540fc2312007f4449687d419c55</sys_scope>
+            <sys_update_name>sys_documentation_x_gametimenow_game_date_game_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-17 21:05:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

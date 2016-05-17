@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Game Players" max_length="40" name="x_gametimenow_game_players" type="collection">
+        <element label="Game" max_length="32" name="game" reference="x_gametimenow_game_date" type="reference"/>
+        <element label="Playing" max_length="40" name="playing" type="boolean"/>
+        <element display="true" label="Player" max_length="32" name="u_player" reference="x_gametimenow_registered_players" type="reference"/>
+        <index name="index">
+            <element name="game"/>
+        </index>
+        <index name="index2">
+            <element name="u_player"/>
+        </index>
+    </element>
+</database>
